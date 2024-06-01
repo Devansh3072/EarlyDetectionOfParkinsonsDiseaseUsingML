@@ -1,1 +1,1 @@
-# EarlyDetectionOfParkinsonsDiseaseUsingML
+# Capstone
